@@ -12,4 +12,4 @@ Drop me a message on Discord (`idomino`) and I will invite you in. I will either
 
 # Project List
 
-##  Argonaut: a lightweight, encrypted, and modular reverse shell written in Rust.
+##  __Argonaut__: a lightweight, encrypted, and modular reverse shell written in Rust.
